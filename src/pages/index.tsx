@@ -6,7 +6,7 @@ export default function Home() {
 			<Head>
 				<title>Teste de title</title>{' '}
 			</Head>
-			<h1>Teste</h1>
+			<h1>Hello World</h1>
 		</>
 	);
 }
